@@ -15,6 +15,9 @@
 #define WINDOW_MOTOR_PIN2 5
 #define WINDOW_COURSE_DELAY 2000
 
+#define SOFTWARE_SERIAL_RX_PIN 12
+#define SOFTWARE_SERIAL_TX_PIN 13
+
 #define GAS_SENSOR_PIN A0
 
 // Publish topics
